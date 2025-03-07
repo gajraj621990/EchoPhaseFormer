@@ -1,0 +1,6 @@
+opencv-python
+scikit-learn
+datasets
+pandas
+torch
+timm
